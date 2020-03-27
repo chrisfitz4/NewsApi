@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Top News</string>
+    <string name="search">search</string>
+    <string name="headlines">Headlines</string>
+    <string name="author_string">by %s</string>
+    <string name="show_me_more">Show me more!</string>
+</resources>
